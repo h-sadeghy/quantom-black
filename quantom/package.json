@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "daisyui": "^4.12.23",
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "flowbite": "^2.5.2",
+    "scrollreveal": "^4.0.9",
+    "tailwindcss-motion": "^1.0.1"
+  }
+}
